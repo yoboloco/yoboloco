@@ -17,7 +17,8 @@ https://114583perezjoserobertoemmanuel2w2.github.io/JoseRobertoEmmanuelPerez.GIT
 ## Contacto
 
 Puedes contactarme a través de los siguientes medios:
-.Tell:351-157512314
+
+-Tell:351-157512314
 - pc-500@live.com.ar
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto conmigo.
